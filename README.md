@@ -1,2 +1,2 @@
-# BS_porto
+# BS_portofolio
 Portofolio Website using Next.Js and Tailwind
