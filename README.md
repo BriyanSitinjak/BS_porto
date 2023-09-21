@@ -1,7 +1,7 @@
 # BS_portofolio
 Portofolio Website using Next.Js and Tailwind
 
-Installing NEXTJs
+## Installing NEXTJs
 
 This could have a bunch of information related to Briyan's experiences and the product that he has been working on
 
@@ -10,9 +10,9 @@ And then will put some Prettier to make this code more beautiful
 And last but not least, will implement the Storybook and SSR
 
 
-Contact
+## Contact
 You can directly contact me through Email or other social media, like Whatsapp, Instagram, and Linkedin.
-Email : Imanbriyan@gmail.com
-Whatsapp : +62 821 2357 6830
-Instagram : @briyansitinjak97
-Linkedin : briyan-sitinjak
+Email : [Imanbriyan@gmail.com](mailto:Imanbriyan@gmail.com)
+Whatsapp : [+62 821 2357 6830](wa.me/6282123576830)
+Instagram : [@briyansitinjak97](https://www.instagram.com/briyansitinjak97/)
+Linkedin : [briyan-sitinjak](https://www.linkedin.com/in/briyan-sitinjak/)
